@@ -1,6 +1,6 @@
 [submodule "systemd"]
 	path = systemd
-	url = https://github.com/usommerl/systemd-custom-units.git
+	url = https://github.com/usommerl/configuration-systemd-units.git
 [submodule "Xorg"]
 	path = Xorg
 	url = https://github.com/usommerl/configuration-Xorg.git
