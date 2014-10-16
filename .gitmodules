@@ -61,3 +61,6 @@
 [submodule "tmux"]
 	path = tmux
 	url = https://github.com/usommerl/configuration-tmux.git
+[submodule "ranger"]
+	path = ranger
+	url = https://github.com/usommerl/configuration-ranger.git
