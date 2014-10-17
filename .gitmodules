@@ -64,3 +64,6 @@
 [submodule "ranger"]
 	path = ranger
 	url = https://github.com/usommerl/configuration-ranger.git
+[submodule "weechat"]
+	path = weechat
+	url = https://github.com/usommerl/configuration-weechat.git
