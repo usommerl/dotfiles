@@ -67,3 +67,6 @@
 [submodule "weechat"]
 	path = weechat
 	url = https://github.com/usommerl/configuration-weechat.git
+[submodule "vifm"]
+	path = vifm
+	url = https://github.com/usommerl/configuration-vifm.git
