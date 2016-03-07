@@ -67,3 +67,6 @@
 [submodule "vifm"]
 	path = vifm
 	url = https://github.com/usommerl/configuration-vifm.git
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/usommerl/configuration-nvim.git
