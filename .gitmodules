@@ -46,9 +46,6 @@
 [submodule "zsh"]
 	path = zsh
 	url = https://github.com/usommerl/configuration-zsh.git
-[submodule "configuration-module-lib"]
-	path = configuration-module-lib
-	url = https://github.com/usommerl/configuration-module-lib.git
 [submodule "mplayer"]
 	path = mplayer
 	url = https://github.com/usommerl/configuration-mplayer.git
