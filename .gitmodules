@@ -25,9 +25,6 @@
 [submodule "latexmk"]
 	path = latexmk
 	url = https://github.com/usommerl/configuration-latexmk.git
-[submodule "gtk-2.0"]
-	path = gtk-2.0
-	url = https://github.com/usommerl/configuration-gtk-2.git
 [submodule "git"]
 	path = git
 	url = https://github.com/usommerl/configuration-git.git
