@@ -1,0 +1,21 @@
+[submodule "awesomewm"]
+	path = awesomewm
+	url = https://github.com/usommerl/configuration-awesomewm.git
+[submodule "bash"]
+	path = bash
+	url = https://github.com/usommerl/configuration-bash.git
+[submodule "git"]
+	path = git
+	url = https://github.com/usommerl/configuration-git.git
+[submodule "hg"]
+	path = hg
+	url = https://github.com/usommerl/configuration-hg.git
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/usommerl/configuration-nvim.git
+[submodule "vifm"]
+	path = vifm
+	url = https://github.com/usommerl/configuration-vifm.git
+[submodule "xorg"]
+	path = xorg
+	url = https://github.com/usommerl/configuration-xorg.git
