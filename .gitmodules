@@ -64,3 +64,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/usommerl/configuration-nvim.git
+[submodule "sbt"]
+	path = sbt
+	url = https://github.com/usommerl/configuration-sbt
