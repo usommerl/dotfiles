@@ -67,3 +67,6 @@
 [submodule "sbt"]
 	path = sbt
 	url = https://github.com/usommerl/configuration-sbt
+[submodule "chromium"]
+	path = chromium
+	url = https://github.com/usommerl/configuration-chromium
