@@ -19,3 +19,9 @@
 [submodule "xorg"]
 	path = xorg
 	url = https://github.com/usommerl/configuration-xorg.git
+[submodule "sbt"]
+	path = sbt
+	url = https://github.com/usommerl/configuration-sbt.git
+[submodule "chromium"]
+	path = chromium
+	url = git@github.com:usommerl/configuration-chromium.git
