@@ -28,3 +28,6 @@
 [submodule "alacritty"]
 	path = alacritty
 	url = git@github.com:usommerl/configuration-alacritty.git
+[submodule "idea"]
+	path = idea
+	url = https://github.com/usommerl/configuration-idea.git
