@@ -76,3 +76,6 @@
 [submodule "surfingkeys"]
 	path = surfingkeys
 	url = https://github.com/usommerl/configuration-surfingkeys.git
+[submodule "vscode"]
+	path = vscode
+	url = https://github.com/usommerl/configuration-vscode.git
