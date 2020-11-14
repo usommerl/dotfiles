@@ -79,3 +79,6 @@
 [submodule "vscode"]
 	path = vscode
 	url = https://github.com/usommerl/configuration-vscode.git
+[submodule "httpie"]
+	path = httpie
+	url = https://github.com/usommerl/configuration-httpie.git
