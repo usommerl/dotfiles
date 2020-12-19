@@ -82,3 +82,6 @@
 [submodule "httpie"]
 	path = httpie
 	url = https://github.com/usommerl/configuration-httpie.git
+[submodule "rofi"]
+	path = rofi
+	url = https://github.com/usommerl/configuration-rofi
