@@ -1,87 +1,114 @@
 [submodule "systemd"]
 	path = systemd
 	url = https://github.com/usommerl/configuration-systemd-units.git
+	branch = master
 [submodule "Xorg"]
 	path = Xorg
 	url = https://github.com/usommerl/configuration-Xorg.git
+	branch = master
 [submodule "zathura"]
 	path = zathura
 	url = https://github.com/usommerl/configuration-zathura.git
+	branch = master
 [submodule "rtorrent"]
 	path = rtorrent
 	url = https://github.com/usommerl/configuration-rtorrent.git
+	branch = master
 [submodule "ncmpcpp"]
 	path = ncmpcpp
 	url = https://github.com/usommerl/configuration-ncmpcpp.git
+	branch = master
 [submodule "mpd"]
 	path = mpd
 	url = https://github.com/usommerl/configuration-mpd.git
+	branch = master
 [submodule "minidlna"]
 	path = minidlna
 	url = https://github.com/usommerl/configuration-minidlna.git
+	branch = master
 [submodule "hg"]
 	path = hg
 	url = https://github.com/usommerl/configuration-hg.git
+	branch = master
 [submodule "latexmk"]
 	path = latexmk
 	url = https://github.com/usommerl/configuration-latexmk.git
+	branch = master
 [submodule "git"]
 	path = git
 	url = https://github.com/usommerl/configuration-git.git
+	branch = master
 [submodule "feh"]
 	path = feh
 	url = https://github.com/usommerl/configuration-feh.git
+	branch = master
 [submodule "ack"]
 	path = ack
 	url = https://github.com/usommerl/configuration-ack.git
 [submodule "vim"]
 	path = vim
 	url = https://github.com/usommerl/configuration-vim.git
+	branch = master
 [submodule "bash"]
 	path = bash
 	url = https://github.com/usommerl/configuration-bash.git
+	branch = master
 [submodule "awesomewm"]
 	path = awesomewm
 	url = https://github.com/usommerl/configuration-awesomewm.git
 [submodule "zsh"]
 	path = zsh
 	url = https://github.com/usommerl/configuration-zsh.git
+	branch = master
 [submodule "mplayer"]
 	path = mplayer
 	url = https://github.com/usommerl/configuration-mplayer.git
+	branch = master
 [submodule "tmux"]
 	path = tmux
 	url = https://github.com/usommerl/configuration-tmux.git
+	branch = master
 [submodule "ranger"]
 	path = ranger
 	url = https://github.com/usommerl/configuration-ranger.git
+	branch = master
 [submodule "weechat"]
 	path = weechat
 	url = https://github.com/usommerl/configuration-weechat.git
+	branch = master
 [submodule "vifm"]
 	path = vifm
 	url = https://github.com/usommerl/configuration-vifm.git
+	branch = master
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/usommerl/configuration-nvim.git
+	branch = master
 [submodule "sbt"]
 	path = sbt
 	url = https://github.com/usommerl/configuration-sbt
+	branch = master
 [submodule "chromium"]
 	path = chromium
 	url = https://github.com/usommerl/configuration-chromium
+	branch = master
 [submodule "alacritty"]
 	path = alacritty
 	url = https://github.com/usommerl/configuration-alacritty
+	branch = master
 [submodule "surfingkeys"]
 	path = surfingkeys
 	url = https://github.com/usommerl/configuration-surfingkeys.git
+	branch = master
 [submodule "vscode"]
 	path = vscode
 	url = https://github.com/usommerl/configuration-vscode.git
+	branch = master
 [submodule "httpie"]
 	path = httpie
 	url = https://github.com/usommerl/configuration-httpie.git
+	branch = main
 [submodule "rofi"]
 	path = rofi
 	url = https://github.com/usommerl/configuration-rofi
+	branch = main
