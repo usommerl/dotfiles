@@ -45,10 +45,6 @@
 [submodule "ack"]
 	path = ack
 	url = https://github.com/usommerl/configuration-ack.git
-[submodule "vim"]
-	path = vim
-	url = https://github.com/usommerl/configuration-vim.git
-	branch = master
 [submodule "bash"]
 	path = bash
 	url = https://github.com/usommerl/configuration-bash.git
