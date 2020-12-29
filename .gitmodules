@@ -77,10 +77,6 @@
 	path = sbt
 	url = https://github.com/usommerl/configuration-sbt
 	branch = master
-[submodule "chromium"]
-	path = chromium
-	url = https://github.com/usommerl/configuration-chromium
-	branch = master
 [submodule "alacritty"]
 	path = alacritty
 	url = https://github.com/usommerl/configuration-alacritty
