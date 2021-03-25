@@ -97,3 +97,6 @@
 	path = rofi
 	url = https://github.com/usommerl/configuration-rofi
 	branch = master
+[submodule "fish"]
+	path = fish
+	url = https://github.com/usommerl/configuration-fish.git
