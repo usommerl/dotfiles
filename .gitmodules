@@ -100,3 +100,6 @@
 [submodule "fish"]
 	path = fish
 	url = https://github.com/usommerl/configuration-fish.git
+[submodule "starship"]
+	path = starship
+	url = https://github.com/usommerl/configuration-starship.git
